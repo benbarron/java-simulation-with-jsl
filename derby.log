@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 22 00:11:17 CST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0177-28b7-e820-00000708bc00 
+on database directory /Users/benbarron/Code/bid-process-simulation-jsl/jslOutput/db/JSLDb_ShirtCreationProcessSimulation with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/Users/benbarron/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=/Users/benbarron/Code/bid-process-simulation-jsl
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
